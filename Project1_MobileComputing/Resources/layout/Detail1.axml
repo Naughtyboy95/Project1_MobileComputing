@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="When a documentary producer invites Ani to tell her side of the chilling and violent incident that took place when she was a teenager, she hopes it will be an opportunity to prove how far she's come since then. She'll even let the production company film her wedding to the wealthy Luke Harrison, the final step in her transformation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/book1" />
+    <ImageView
+        android:src="@drawable/image1"
+        android:layout_width="match_parent"
+        android:layout_height="357.0dp"
+        android:scaleType="fitXY"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="326.5dp" />
+</LinearLayout>

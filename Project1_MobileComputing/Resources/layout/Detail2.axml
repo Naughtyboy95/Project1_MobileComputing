@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Quentin Jacobsen - Q to his friends - is eighteen and has always loved the edgy Margo Roth Spiegelman. As children, they'd discovered a dead body together. Now at high school, Q's nerdy while Margo is uber-cool. One night, Q is basking in the predictable boringness of his life when Margo, dressed as a ninja, persuades him to partake in several hours of mayhem. then she vanishes."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/book2" />
+    <ImageView
+        android:src="@drawable/image1"
+        android:layout_width="match_parent"
+        android:layout_height="357.0dp"
+        android:scaleType="fitXY"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="326.5dp" />
+</LinearLayout>
